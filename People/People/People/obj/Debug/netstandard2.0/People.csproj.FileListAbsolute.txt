@@ -6,3 +6,7 @@ C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\Main
 C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
 C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
 C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+C:\EL\Repos\PeopleRepository2\People\People\People\bin\Debug\netstandard2.0\People.pdb
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\XamlC.stamp
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.dll
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.pdb
