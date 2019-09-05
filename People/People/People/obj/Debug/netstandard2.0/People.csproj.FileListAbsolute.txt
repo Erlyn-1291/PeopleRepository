@@ -1,0 +1,8 @@
+C:\EL\Repos\PeopleRepository2\People\People\People\bin\Debug\netstandard2.0\People.deps.json
+C:\EL\Repos\PeopleRepository2\People\People\People\bin\Debug\netstandard2.0\People.dll
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+C:\EL\Repos\PeopleRepository2\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
