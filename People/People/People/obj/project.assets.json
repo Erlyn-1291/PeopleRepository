@@ -479,11 +479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EL\\Repos\\PeopleRepository2\\People\\People\\People\\People.csproj",
+      "projectUniqueName": "C:\\EL\\Repos\\PeopleRepository3\\People\\People\\People\\People.csproj",
       "projectName": "People",
-      "projectPath": "C:\\EL\\Repos\\PeopleRepository2\\People\\People\\People\\People.csproj",
+      "projectPath": "C:\\EL\\Repos\\PeopleRepository3\\People\\People\\People\\People.csproj",
       "packagesPath": "C:\\Users\\CDS2UNIVO9\\.nuget\\packages\\",
-      "outputPath": "C:\\EL\\Repos\\PeopleRepository2\\People\\People\\People\\obj\\",
+      "outputPath": "C:\\EL\\Repos\\PeopleRepository3\\People\\People\\People\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,24 +1,46 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using People.Models;
 using SQLite;
-using People.Models;
 
 
 namespace People
 {
-   public class PersonRepositoryCRUD
+    public class PersonRepositoryCRUD
     {
         SQLiteConnection conn;
+
+        //conn=new SqliteConnection
         public string StatusMessage { get; set; }
 
-        public PersonRepositoryCRUD (string dbPath)
+        //Constructor
+        public PersonRepositoryCRUD(string dbPath)
         {
             // Creamos la conexión
             conn = new SQLiteConnection(dbPath);
             conn.CreateTable<Person>();
 
+            /*PersonRepositoryCRUD Repo = 
+              new PersonRepositoryCRUD ("c\EL\datos");*/
 
+        }
+
+        //CRUD OPERATION o métodos
+        //CREAR
+        public void CreatePerson(Person newPerson)
+        {
+            int result = 0;
+            result = conn.Insert(newPerson);
+            if (result == 1)
+            {
+
+                StatusMessage =
+                        $"{result} registro agregado [Nombre:" +
+                        $"{newPerson.Name}, ID:{newPerson.Id}]";
+            }
+            else
+            {
+                StatusMessage =
+                    $"¡Registro no insertado!";
+            }
         }
     }
 }
