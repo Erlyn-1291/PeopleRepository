@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>faraon</SelectedDevice>
     <DefaultDevice>faraon</DefaultDevice>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault.NoActionBar.Fullscreen</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

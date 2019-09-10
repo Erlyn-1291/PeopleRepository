@@ -39,7 +39,7 @@ namespace People
             else
             {
                 StatusMessage =
-                    $"¡Registro no insertado!";
+                    "¡Registro no insertado!";
             }
         }
     }
