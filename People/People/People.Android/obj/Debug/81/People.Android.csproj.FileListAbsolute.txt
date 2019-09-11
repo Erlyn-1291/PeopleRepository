@@ -207,6 +207,4 @@ C:\EL\Repos\PeopleRepository3\People\People\People.Android\obj\Debug\81\android\
 C:\EL\Repos\PeopleRepository3\People\People\People.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\EL\Repos\PeopleRepository3\People\People\People.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\EL\Repos\PeopleRepository3\People\People\People.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\EL\Repos\PeopleRepository3\People\People\People\bin\Debug\netstandard2.0\People.dll
-C:\EL\Repos\PeopleRepository3\People\People\People.Android\bin\Debug\People.dll.mdb
 C:\EL\Repos\PeopleRepository3\People\People\People.Android\obj\Debug\81\linksrc\People.dll.mdb

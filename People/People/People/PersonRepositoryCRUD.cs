@@ -1,6 +1,6 @@
 ﻿using People.Models;
 using SQLite;
-
+using System.Collections.Generic;
 
 namespace People
 {
@@ -42,5 +42,12 @@ namespace People
                     "¡Registro no insertado!";
             }
         }
+
+
+        public List<Person> GetAllPeople()
+        {
+            return conn.Table<Person>().ToList();
+        }
     }
+
 }
